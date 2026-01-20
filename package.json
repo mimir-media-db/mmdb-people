@@ -8,6 +8,6 @@
     "build-indexes": "mmdb-build-indexes"
   },
   "devDependencies": {
-    "mmdb-schema-and-tools": "https://github.com/mimir-media-db/mmdb-schema-and-tools.git"
+    "mmdb-schema-and-tools": "file:../mmdb"
   }
 }
