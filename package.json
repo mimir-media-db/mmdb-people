@@ -1,0 +1,13 @@
+{
+  "name": "mmdb-people",
+  "version": "1.0.0",
+  "description": "MMDB global people database",
+  "private": true,
+  "scripts": {
+    "validate": "mmdb-validate",
+    "build-indexes": "mmdb-build-indexes"
+  },
+  "devDependencies": {
+    "mmdb-schema-and-tools": "file:../mmdb"
+  }
+}
