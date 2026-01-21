@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_unknown",
+  "name": "Unknown",
+  "external_ids": {
+    "wikidata": "Q66970",
+    "imdb": "nm0944255"
+  },
+  "last_updated": "2026-01-21",
+  "birth_year": 1967,
+  "death_year": null
+}
