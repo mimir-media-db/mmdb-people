@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_john_terry",
+  "name": "John Terry",
+  "external_ids": {
+    "wikidata": "Q83456",
+    "imdb": "nm1635867"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1980,
+  "death_year": null
+}
