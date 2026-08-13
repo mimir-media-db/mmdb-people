@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_50_cent",
+  "name": "50 Cent",
+  "external_ids": {
+    "wikidata": "Q6060",
+    "imdb": "nm1265067"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1975,
+  "death_year": null
+}
